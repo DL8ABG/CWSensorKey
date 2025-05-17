@@ -61,7 +61,11 @@ For use only in your shack, you can mount the bottom side of the key directly to
 
 # History #
 
+## First Prototype ##
 The first prototype is shown here. It was my first try on how good the circuit works and was made by parts I found after receiving the board. I also verified with this construction, that coins are suitable sensor pads (here 5 Euro-Cent coins).
 ![first prototype of the kit](infos/pictures/first_prototype.jpg)
 
+## Second Prototype ##
+
+(comming soon)
 The second prototype is shown here. With this I verified the construction of the CW sensor pad and the fitting of all parts in the Mammond housing. It is near the final kit design.
