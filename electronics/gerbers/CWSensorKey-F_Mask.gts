@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.1+dfsg-1*%
-%TF.CreationDate,2025-05-12T20:25:32+02:00*%
+%TF.CreationDate,2025-05-23T19:21:30+02:00*%
 %TF.ProjectId,CWSensorKey,43575365-6e73-46f7-924b-65792e6b6963,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.1+dfsg-1) date 2025-05-12 20:25:32*
+G04 Created by KiCad (PCBNEW 9.0.1+dfsg-1) date 2025-05-23 19:21:30*
 %MOMM*%
 %LPD*%
 G01*
@@ -129,6 +129,6 @@ X172085000Y-104140000D03*
 X172085000Y-90170000D03*
 %TD*%
 %TO.C,J5*%
-X142875000Y-99060000D03*
+X142875000Y-97790000D03*
 %TD*%
 M02*
