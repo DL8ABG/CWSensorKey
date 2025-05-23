@@ -2,7 +2,7 @@
 *.FCBak
 *.old.*
 /mechanics/old
-/mechanics/__pycache__
+*__pycache__*
 /electronics/CWSensorKey-backups
 /electronics/fp-info-cache
 Kostenkalkulation-CWSensorKey-Bausatz.ods

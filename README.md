@@ -2,7 +2,7 @@
 
 This project contains a kit for a CW-key (or morse key) that works without any mechanical parts but is based on electronic sensors. It is based on the circuit from [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/) and is extended within this project to a complete kit with housing and a construction of a CW sensor pad.
 
-Many thanks to Stephan, DOxWWW and Christian, DJ2PH for thair support during the setup of this kit.
+Many thanks to Stephan, DO2WWW and Christian, DJ2PH for thair support during the setup of this kit.
 Thanks to [Ken, KM4NFQ](https://github.com/km4nfq/capacitive-touch-key) for his design and by that the starting point and inspiration for me on this kit.
 Very many thanks to [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/) for the design of this great tiny circuit!
 
