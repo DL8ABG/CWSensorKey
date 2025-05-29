@@ -8,12 +8,15 @@ LAYERS=F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask,Edge.Cu
 
 
 # generate gerber files from board file
-echo "Generate gerbers files:"
+echo "Generating gerbers files:"
 kicad-cli pcb export gerbers $INFILE -o $OUTDIR -l $LAYERS
 
 
 echo -e "\n\n"
 
 # geneate drill information from board file
-echo "Generate drill files:"
+echo "Generating drill files:"
 kicad-cli pcb export drill $INFILE --generate-map -o $OUTDIR 
+
+echo -e "done\n\n"
+

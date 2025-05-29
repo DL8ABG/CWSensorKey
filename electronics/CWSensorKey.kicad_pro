@@ -578,7 +578,7 @@
       "plot": "./gerbers",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "CWSensorKey.step",
       "svg": "",
       "vrml": ""
     },

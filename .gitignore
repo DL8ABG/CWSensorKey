@@ -6,3 +6,4 @@
 /electronics/CWSensorKey-backups
 /electronics/fp-info-cache
 *.ods
+*sym-lib-table*
