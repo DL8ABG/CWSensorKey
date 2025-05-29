@@ -62,8 +62,8 @@ First step:
 
 Take care that the each two pieces lie exactly on top of each other!
 
-After having glued the firs parts, it should look like this:
-![After having glued the firs parts, it should look like this](infos/pictures/sensor_pad_first_parts_glued.jpg)
+After having glued the first parts, it should look like this:
+![After having glued the first parts, it should look like this](infos/pictures/sensor_pad_first_parts_glued.jpg)
 
 Now glue the side plates on each side of the middle plates. Also here, take care that they lie exactly in the right position.
 
