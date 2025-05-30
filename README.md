@@ -2,7 +2,7 @@
 
 This project contains a kit for a CW-key (or morse key) that works without any mechanical parts but is based on electronic sensors. The idea and initial designs comes from [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/) and is extended within this project to a complete kit with housing and a construction of a CW sensor pad.
 
-Many thanks to Christian, DJ9PH, and Stephan, DO2WWW, for thair support during the development of this kit.
+Many thanks to [Christian, DJ9PH](https://www.qrz.com/db/DJ9PH), and Stephan, DO2WWW, for thair support during the development of this kit.
 Thanks to [Ken, KM4NFQ](https://github.com/km4nfq/capacitive-touch-key) for his design of the circuit board in [KiCad](https://www.kicad.org/) and by that being the starting point and inspiration for me on this kit.
 Very many thanks to [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/) for the great idea and documentation of this tiny circuit!
 
@@ -75,6 +75,14 @@ Now set the holder in the hole at the end of the pad. Take care, that it is dire
 Your assembled sensor pad should look like this:
 ![The sensor pad is now assembled](infos/pictures/sensor_pad_assembled.jpg)
 
+The next step is to prepare the coins. Solder the wires on them (next to the edge). The solder spot should be not to big (it must fit in the small hole below the coin in the pad).
+It should look like this at the end of this step:
+![The sensor pad next to the coins](infos/pictures/sensor_pad_assembled_next_coins.jpg)
+
+Now insert the wires in the small holes below the holders of the coins, so that they exit the pad at the back side. The coins should fit perfectly in the holder plates and it should look like this:
+![The sensor pad with coins](infos/pictures/sensor_pad_assembled_with_coins.jpg)
+
+Glue the coins in the holder plates and/or use some plastic tape to prevent them from falling out. With that, your sensor pad is complete and can be installed in the housing.
 
 
 ## Putting the pieces together ##
