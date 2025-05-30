@@ -9,8 +9,8 @@ Very many thanks to [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch
 ## all pieces needed for the complete kit ##
 
 To assemble the complete kit, you need this:
-- the fully assembled electronics board (see "Electronics" section below)
-- the assembled CW Sensor Pad (see "Mechanics" section below)
+- the fully assembled electronics board (see "[Electronics](#electronics)" section below)
+- the assembled CW Sensor Pad (see "[Mechanics](#mechanics)" section below)
 - the housing Mammond 1550Q (e.g. from [Reichelt](https://www.reichelt.de/de/de/shop/produkt/alugehaeuse_1550_q_60_x_55_x_30_mm_aluminium-221407))
 - 4 distance bolts M2,5 with length 5mm (e.g. from [Reichelt](https://www.reichelt.de/de/de/shop/produkt/distanzbolzen_5_mm_m2_5-236284))
 - 4 screws M2,5 x 5mm
@@ -105,7 +105,7 @@ The first prototype is shown here. It was my first try on how good the circuit w
 
 
 ## Second Prototype ##
-I changed the first prototype by replacing the sensor pad with first example made from laser cutted wood.
+I changed the first prototype by replacing the "testing" sensor pad with first example made from laser cutted wood.
 ![first prototype of the kit](infos/pictures/prototype_2.jpg)
 
 ## Third protototype ##
