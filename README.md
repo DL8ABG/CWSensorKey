@@ -10,7 +10,7 @@ Very many thanks to [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch
 
 To assemble the complete kit, you need this:
 - the fully assembled electronics board (see "[Electronics](#electronics)" section below)
-- the assembled CW Sensor Pad (see "[Mechanics](#mechanics)" section below)
+- the assembled CW Sensor Pad (see "[Mechanics](#the-cw-sensor-pad)" section below)
 - the housing Mammond 1550Q (e.g. from [Reichelt](https://www.reichelt.de/de/de/shop/produkt/alugehaeuse_1550_q_60_x_55_x_30_mm_aluminium-221407))
 - 4 distance bolts M2,5 with length 5mm (e.g. from [Reichelt](https://www.reichelt.de/de/de/shop/produkt/distanzbolzen_5_mm_m2_5-236284))
 - 4 screws M2,5 x 5mm
@@ -29,10 +29,6 @@ To assemble the complete kit, you need this:
 # Electronics #
 The board used in this project was initally designed by [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/) and the [KiCad](https://www.kicad.org/) file is based on the work of [Ken, KM4NFQ](https://github.com/km4nfq/capacitive-touch-key). It was changed in shape to fit in the housing and make the wiring easy. Also the resistors and capacitors are changed to size 0805 (as this is the size I found in my laboratory).
 
-During the soldering, be carefull due to the small size of the board and parts, not to make short circuits or bridges of solder. Beyond that and due to the small amount of parts, the soldering is an easy thing.
-
-There are some vias in the board to ensure the GND level to be reliablity available on all places needed. The back of the board is connected to GND (except the small places for connecting the wires).
-
 ## Bill of electronic parts ##
 - 1 x circuit board
 - 2 x IRFML8244TRPBF MOSFETs, SMD SOT-23 (Q1, Q2)
@@ -40,6 +36,14 @@ There are some vias in the board to ensure the GND level to be reliablity availa
 - 2 x 22K Ohm resistors, SMD 0805 (R1, R2)
 - 2 x 0.1uF capacitors, SMD 0805 (C1, C3)
 - 2 x 2.2nF capacitors, SMD 0805 (C2, C4)
+
+## Building the circuit board ##
+
+During the soldering, be carefull due to the small size of the board and parts, not to make short circuits or bridges of solder. Beyond that and due to the small amount of parts, the soldering is an easy thing.
+
+There are some vias in the board to ensure the GND level to be reliablity available on all places needed. The back of the board is connected to GND (except the small places for connecting the wires).
+
+(pictures follow soon)
 
 
 # Mechanics #

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="24.48mm" height="26.979999999999997mm" viewBox="0 0 24.48 26.979999999999997" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg width="24.480000000000004mm" height="28.97999999999992mm" viewBox="0 0 24.480000000000004 28.97999999999992" xmlns="http://www.w3.org/2000/svg" version="1.1">
 <g id="Shape2DView" transform="translate(12.240000,1.740000) scale(1,-1)">
-<path id="Shape2DView_nwe0000"  d="M 12.0 -13.000000000000002 L 12.0 1.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0000"  d="M 12.0 -15.00000000002702 L 12.0 1.500000000000002 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
 <path id="Shape2DView_nwe0001"  d="M -12.0 1.5 L 12.0 1.5 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
-<path id="Shape2DView_nwe0002"  d="M -12.0 1.5 L -12.0 -13.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
-<path id="Shape2DView_nwe0003"  d="M -12.0 -13.0 A 12 12 0 0 1 12 -13" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
-<circle cx="-8.3e-16" cy="-13.0" r="9.875" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<path id="Shape2DView_nwe0002"  d="M -12.0 1.5 L -12.000000000000002 -15.0 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<path id="Shape2DView_nwe0003"  d="M -12.000000000000002 -15.0 A 12 12 0 0 1 12 -15" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<circle cx="-8.319e-14" cy="-15.0" r="9.875" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
 <title>b'Shape2DView'</title>
 </g>
 </svg>
