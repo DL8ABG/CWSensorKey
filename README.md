@@ -1,3 +1,9 @@
+# WARNING # 
+THE KIT IS NOT COMPLETE YET! 
+
+Some small changes have to be made for all parts fit together as intended!!
+
+
 # Introduction #
 
 This project contains a kit for a CW-key (or morse key) that works without any mechanical parts but is based on electronic sensors. The idea and initial designs comes from [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/) and is extended within this project to a complete kit with housing and a construction of a CW sensor pad.
@@ -90,13 +96,29 @@ Glue the coins in the holder plates and/or use some plastic tape to prevent them
 
 
 ## Putting the pieces together ##
+Here you see the suggested mounting order seen on the third prototype. How to find the places for the holes in the housing will be explained here in a later version of the README.
 
+First set the bolts for holding the board in the housing using lockwashers to keep it tight:
+![housing with bolts](infos/pictures/prototype_3_housing-part-1.jpg)
 
+Second fix the board on the bolts with the nuts (including washers):
+![board on the bolts](infos/pictures/prototype_3_housing-part-2.jpg)
+
+Then fix the sensor pad, the connector and the switch in its holes:
+![additional componentes fixed](infos/pictures/prototype_3_housing-part-3.jpg)
+
+As the last step, mount the battery holder using some double sided glue tape on the board:
+![battery holder fixed](infos/pictures/prototype_3_housing-part-4.jpg)
+
+Now you can close the housing and your key is complete (or you want to add magnets as a mounting option, what ist explained in the next section).
 
 ## Options for mounting ##
 As the kit is intended for universal use, you can descide for which purpuse you like to use it in your case. It can be used for portable operation (due to its small size and good closure thus resistance against dirt) or for use in your shack.
 
 For portable use, you can mount strong magnets on the buttom side of the housing. With them you can attach the key to any (magnetic) surface you like (your portable TRX, a metal case, ...). This is the way, many portable keys work (like those from [Palm](https://www.eham.net/reviews/view-product/11153) or other comanies).
+
+This is, how it can look:
+![magnets on the bottom side of the housing](infos/pictures/prototype_3_complete-bot.jpg)
 
 For use only in your shack, you can mount the bottom side of the key directly to a heavy item like a metal plate (e.g. steal with 8cm x 8cm x 2cm) or a stone plate, with probably looks great). For this mounting, you drill holes according to the holes for the screws in the housing through yor item and replace the screws of the housing with longer ones suitable for your item dimension. In this way you mount your item, the buttom of the housing and the top of the housing in once.
 
@@ -110,10 +132,27 @@ The first prototype is shown here. It was my first try on how good the circuit w
 
 ## Second Prototype ##
 I changed the first prototype by replacing the "testing" sensor pad with first example made from laser cutted wood.
-![first prototype of the kit](infos/pictures/prototype_2.jpg)
+![second prototype of the kit](infos/pictures/prototype_2.jpg)
 
 ## Third protototype ##
+After some changes to the board to reduce its size and place the solder pads on either sides, the third prototype became available. Here you see its construction.
 
+This is the electonic connected with all external components:
+![the electronic seen from the solder side](infos/pictures/prototype_3_electronics_3.jpg)
+
+This is the same showing the bottom side of the board (where the battery holder is glued on):
+![the electronic seen from the bottom side](infos/pictures/prototype_3_electronics_1.jpg)
+
+And theses are pictures of the whole key in its housing:
+![the key seen from front](infos/pictures/prototype_3_complete-1.jpg)
+
+![the key seen from back](infos/pictures/prototype_3_complete-2.jpg)
 
 (comming soon)
-The second prototype is shown here. With this I verified the construction of the CW sensor pad and the fitting of all parts in the Mammond housing. It is near the final kit design.
+Slight changes are nessecarry to enhance the fit of all parts in the housing.
+
+
+# Responsibility #
+This kit is build by **you**. You are responsible for all safety and legal aspects on building and operation!! 
+
+The author is not reliable for anything, as he only shows his ideas on how such a sensor key can be build.
