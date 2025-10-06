@@ -3526,7 +3526,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+		(property "Footprint" "MountingHole:MountingHole_3mm"
 			(at 138.43 130.81 0)
 			(effects
 				(font
@@ -3590,7 +3590,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+		(property "Footprint" "MountingHole:MountingHole_3mm"
 			(at 138.43 135.89 0)
 			(effects
 				(font
@@ -3654,7 +3654,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+		(property "Footprint" "MountingHole:MountingHole_3mm"
 			(at 138.43 140.97 0)
 			(effects
 				(font
@@ -3718,7 +3718,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5_DIN965"
+		(property "Footprint" "MountingHole:MountingHole_3mm"
 			(at 138.43 146.05 0)
 			(effects
 				(font
@@ -3782,7 +3782,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
 			(at 156.21 102.235 0)
 			(effects
 				(font
@@ -3858,7 +3858,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering"
 			(at 156.21 62.865 0)
 			(effects
 				(font
