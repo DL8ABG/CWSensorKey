@@ -33,15 +33,15 @@ To assemble the complete kit, you need this:
 - material for mounting (see "Options for mounting" below)
 
 # Electronics #
-The board used in this project was initally designed by [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/) and the [KiCad](https://www.kicad.org/) file is based on the work of [Ken, KM4NFQ](https://github.com/km4nfq/capacitive-touch-key). It was changed in shape to fit in the housing and make the wiring easy. Also the resistors and capacitors are changed to size 0805 (as this is the size I found in my laboratory).
+The board used in this project was initally designed by [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/) and the [KiCad](https://www.kicad.org/) file is based on the work of [Ken, KM4NFQ](https://github.com/km4nfq/capacitive-touch-key). It was changed in shape to fit in the housing and make the wiring easy. 
 
 ## Bill of electronic parts ##
 - 1 x circuit board
 - 2 x IRFML8244TRPBF MOSFETs, SMD SOT-23 (Q1, Q2)
 - 2 x AT42QT1011 Touch sensors, SMD (U1, U2)
-- 2 x 22K Ohm resistors, SMD 0805 (R1, R2)
-- 2 x 0.1uF capacitors, SMD 0805 (C1, C3)
-- 2 x 2.2nF capacitors, SMD 0805 (C2, C4)
+- 2 x 22K Ohm resistors, SMD 1206 (R1, R2)
+- 2 x 0.1uF capacitors, SMD 1206 (C1, C3)
+- 2 x 2.2nF capacitors, SMD 1206 (C2, C4)
 
 ## Building the circuit board ##
 
