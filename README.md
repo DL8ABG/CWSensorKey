@@ -107,7 +107,7 @@ Second fix the board on the bolts with the nuts (including washers):
 Then fix the sensor pad, the connector and the switch in its holes:
 ![additional componentes fixed](infos/pictures/prototype_3_housing-part-3.jpg)
 
-As the last step, mount the battery holder using some double sided glue tape on the board:
+As the last step, mount the battery holder using some double-sided adhesive tape on the board. Use strong adhesive tape, preferably one with a layer of silicone, which is often recommended for outdoor use.
 ![battery holder fixed](infos/pictures/prototype_3_housing-part-4.jpg)
 
 Now you can close the housing and your key is complete (or you want to add magnets as a mounting option, what ist explained in the next section).
