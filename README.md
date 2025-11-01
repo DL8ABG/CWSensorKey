@@ -17,20 +17,18 @@ Very many thanks to [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch
 To assemble the complete kit, you need this:
 - the fully assembled electronics board (see "[Electronics](#electronics)" section below)
 - the assembled CW Sensor Pad (see "[Mechanics](#the-cw-sensor-pad)" section below)
-- the housing Mammond 1550Q (e.g. from [Reichelt](https://www.reichelt.de/de/de/shop/produkt/alugehaeuse_1550_q_60_x_55_x_30_mm_aluminium-221407))
-- 4 distance bolts M2,5 with length 5mm (e.g. from [Reichelt](https://www.reichelt.de/de/de/shop/produkt/distanzbolzen_5_mm_m2_5-236284))
-- 4 screws M2,5 x 5mm
-- 8 washers for M2,5
-- 8 lockwashers for M2,5
-- 4 nut screws M2,5
+- for mounting the CW Sensor Pad, you need:
+  - 2 screws M3 x 10mm
+  - 2 washers for M3
+  - 2 lockwashers for M3
+  - 2 nut screws for M3
+- housing:
+  - metall housing Mammond 1550Q see below ["metall Housing"](#metall-housing)
+  - 3D printed housing, see below ["3D printed Houusind"](#3d-printed-housing)
 - 1 holder for 2 batteries AAA (e.g. from [Reichelt](https://www.reichelt.de/de/de/shop/produkt/batteriehalter_fuer_2_microzellen_aaa_loetfahnen-57125))
 - 1 switch (e.g. from [Reichelt](https://www.reichelt.de/de/de/shop/produkt/miniatur-kippschalter_ein-aus_3_a_125_v-359360))
 - 1 stereo jack for 3,5mm (e.g. from [Reichelt](https://www.reichelt.de/de/de/shop/produkt/klinkeneinbaubuchse_3_5_mm_stereo-7301))
-- 2 screws M3 x 10mm
-- 2 washers for M3
-- 2 lockwashers for M3
-- 2 nut screws for M3
-- material for mounting (see "Options for mounting" below)
+- material for mounting (see ["Options for mounting"](#options-for-mounting) below)
 
 # Electronics #
 The board used in this project was initally designed by [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/) and the [KiCad](https://www.kicad.org/) file is based on the work of [Ken, KM4NFQ](https://github.com/km4nfq/capacitive-touch-key). It was changed in shape to fit in the housing and make the wiring easy. 
@@ -94,8 +92,30 @@ Now insert the wires in the small holes below the holders of the coins, so that 
 
 Glue the coins in the holder plates and/or use some plastic tape to prevent them from falling out. With that, your sensor pad is complete and can be installed in the housing.
 
+## Metall housing ##
 
-## Putting the pieces together ##
+For a metall housing, you need the following components:
+- the housing Mammond 1550Q (e.g. from [Reichelt](https://www.reichelt.de/de/de/shop/produkt/alugehaeuse_1550_q_60_x_55_x_30_mm_aluminium-221407))
+- 4 distance bolts M2,5 with length 5mm (e.g. from [Reichelt](https://www.reichelt.de/de/de/shop/produkt/distanzbolzen_5_mm_m2_5-236284))
+- 4 screws M2,5 x 5mm
+- 8 washers for M2,5
+- 8 lockwashers for M2,5
+- 4 nut screws M2,5
+
+Preparing the Mammond 1550Q
+
+### Opening for sensor paddle ###
+
+WILL BE ADDED LATER
+
+### Holes for the board ###
+
+WILL BE ADDED LATER
+### Holes for connector and switch ###
+
+WILL BE ADDED LATER
+
+### Putting the pieces in the metall housing ###
 Here you see the suggested mounting order seen on the third prototype. How to find the places for the holes in the housing will be explained here in a later version of the README.
 
 First set the bolts for holding the board in the housing using lockwashers to keep it tight:
@@ -107,10 +127,19 @@ Second fix the board on the bolts with the nuts (including washers):
 Then fix the sensor pad, the connector and the switch in its holes:
 ![additional componentes fixed](infos/pictures/prototype_3_housing-part-3.jpg)
 
-As the last step, mount the battery holder using some double-sided adhesive tape on the board. Use strong adhesive tape, preferably one with a layer of silicone, which is often recommended for outdoor use.
+As the last step, mount the battery holder on the board. 
+
+There are two options:
+- using some double-sided adhesive tape: Use strong adhesive tape, preferably one with a layer of silicone, which is often recommended for outdoor use.
+- use the hole in the center of the board to screw the battery holder to the board. Therefor, you need an _additional_ M2.5 screw with plate, washer plate and nut (not mentioned in the part list on top of the page)
 ![battery holder fixed](infos/pictures/prototype_3_housing-part-4.jpg)
 
 Now you can close the housing and your key is complete (or you want to add magnets as a mounting option, what ist explained in the next section).
+
+## 3D printed housing ##
+
+WILL BE ADDED LATER
+
 
 ## Options for mounting ##
 As the kit is intended for universal use, you can descide for which purpuse you like to use it in your case. It can be used for portable operation (due to its small size and good closure thus resistance against dirt) or for use in your shack.

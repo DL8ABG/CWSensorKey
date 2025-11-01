@@ -8,11 +8,8 @@
 		(title "M0UKD Capacitive Touch Key")
 		(date "2019-12-11")
 		(rev "1")
-		(company "DL8ABG in KiCad 9.0 (based on KM4NFQ)")
-		(comment 1 "2.2nF & 100nF CAPACITORS")
-		(comment 2 "22K OHM RESISTORS")
-		(comment 3 "IRFML8244TRPbF MOSFET")
-		(comment 4 "AT42QT1011 Touch Sensor")
+		(comment 1 "AATIS Kit No. AS686")
+		(comment 2 "DL8ABG in KiCad 9.0 (based on KM4NFQ)")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x01_Pin"
@@ -2390,7 +2387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 124.46 56.8452 0)
 			(effects
 				(font
@@ -2460,7 +2457,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 101.9048 69.85 0)
 			(effects
 				(font
@@ -2528,7 +2525,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 123.19 93.6752 0)
 			(effects
 				(font
@@ -2598,7 +2595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 101.9048 109.22 0)
 			(effects
 				(font
@@ -3901,6 +3898,70 @@
 			(project ""
 				(path "/246b0027-3286-4c16-89fc-199a4bf3d145"
 					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 138.43 151.13 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4e582e09-9662-4956-8f88-9ad441b903a0")
+		(property "Reference" "H5"
+			(at 135.89 149.9362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 135.89 152.2984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3mm"
+			(at 138.43 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 138.43 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "CWSensorKey"
+				(path "/246b0027-3286-4c16-89fc-199a4bf3d145"
+					(reference "H5")
 					(unit 1)
 				)
 			)
