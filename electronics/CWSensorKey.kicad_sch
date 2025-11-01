@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "M0UKD Capacitive Touch Key")
-		(date "2019-12-11")
+		(date "2025-11-01")
 		(rev "1")
 		(comment 1 "AATIS Kit No. AS686")
 		(comment 2 "DL8ABG in KiCad 9.0 (based on KM4NFQ)")
