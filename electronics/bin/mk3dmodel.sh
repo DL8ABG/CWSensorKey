@@ -3,8 +3,8 @@
 # generate the 3D model of the board
 
 INFILE=CWSensorKey.kicad_pcb
-STEPOUTFILE=../mechanics/CWSensorKey-brd-3D.step
-STLOUTFILE=../mechanics/CWSensorKey-brd-3D.stl
+STEPOUTFILE=CWSensorKey-brd-3D.step
+STLOUTFILE=CWSensorKey-brd-3D.stl
 
 # generate 3D model in STEP format
 echo "Generating 3D model (STEP):"

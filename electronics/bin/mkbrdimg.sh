@@ -3,7 +3,7 @@
 # generate jpg of the board (as view from 3D-Model)
 
 INFILE=CWSensorKey.kicad_pcb
-OUTFILE=../mechanics/CWSensorKey-brd.jpg
+OUTFILE=CWSensorKey-brd.jpg
 QUALITY=basic
 #IMG_WIDTH=1600
 #IMG_HEIGHT=900
