@@ -2,6 +2,7 @@
 *.FCBak
 *.old.*
 /mechanics/old
+/mechanics/ignore
 *__pycache__*
 /electronics/CWSensorKey-backups
 /electronics/fp-info-cache
