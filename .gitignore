@@ -6,6 +6,7 @@
 *__pycache__*
 /electronics/CWSensorKey-backups
 /electronics/fp-info-cache
+/infos/pictures/raw/*
 *.ods
 *sym-lib-table*
 *raw.jpg

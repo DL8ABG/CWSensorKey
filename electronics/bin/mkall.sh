@@ -5,3 +5,4 @@
 bin/mkgerbers.sh
 bin/mk3dmodel.sh
 bin/mkbrdimg.sh
+bin/mkschimg.sh
