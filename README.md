@@ -269,6 +269,12 @@ And theses are pictures of the whole key in its housing:
 
 ![the key seen from back](infos/pictures/prototype_3_complete-2.jpg)
 
+## Version 4 ##
+As this is more than an "prototype" I call ist version 4 ;-)
+
+![the key seen from front](infos/pictures/version_4_front.jpg)
+
+![the key seen from back](infos/pictures/version_4_back.jpg)
 
 # Responsibility #
 This kit is build by **you**. You are responsible for all safety and legal aspects on setup and operation!! 
