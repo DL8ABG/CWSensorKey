@@ -255,7 +255,7 @@ The first prototype is shown here. It was my first try on how good the circuit w
 I changed the first prototype by replacing the "testing" sensor pad with first example made from laser cutted wood.
 ![second prototype of the kit](infos/pictures/prototype_2.jpg)
 
-## Third prototype ## ##
+## Third prototype ##
 After some changes to the board to reduce its size and place the solder pads on either sides, the third prototype became available. Here you see its construction.
 
 This is the electronic connected with all external components:
@@ -269,11 +269,8 @@ And theses are pictures of the whole key in its housing:
 
 ![the key seen from back](infos/pictures/prototype_3_complete-2.jpg)
 
-(coming soon)
-Slight changes are necessary to enhance the fit of all parts in the housing.
-
 
 # Responsibility #
-This kit is build by **you**. You are responsible for all safety and legal aspects on building and operation!! 
+This kit is build by **you**. You are responsible for all safety and legal aspects on setup and operation!! 
 
 The author is not liable for anything, as he only shows his ideas on how such a sensor key can be build.
