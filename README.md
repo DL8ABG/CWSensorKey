@@ -9,7 +9,7 @@ Very many thanks to [John, M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch
 
 # Available as a kit #
 
-The key and the 3D printed housing are available as kit from AATIS as set number [AS686]{https://www.aatis.de}.
+The key and the 3D printed housing are available as kit from AATIS as set number [AS686](https://www.aatis.de).
 
 ## pieces needed for the complete kit ##
 
@@ -41,8 +41,26 @@ During the soldering, be careful due to the small size of the board and parts, n
 
 There are some vias in the board to ensure the GND level to be reliability available on all places needed. The back of the board is connected to GND (except the small places for connecting the wires).
 
-(pictures follow soon)
+The circuit board from the solder side looks like this (picture generated with KiCad):
+![The circuit board from it solder side](electronics/CWSensorKey-brd.jpg)
 
+The circuit board from the bottom side looks like this (picture generated with KiCad):
+![The circuit board from it solder side](electronics/CWSensorKey-brd-bot.jpg)
+
+The schematic it identical to that of [M0UKD](https://m0ukd.com/homebrew/capacitive-cw-touch-key-circuits/):
+![The schematic](electronics/CWSensorKey-sch.svg)
+
+## Wiring ##
+
+The board has connectors (with its markings on the bottom side which is later visible during installation in the housing): 
+- for the sensor pad, marked with I for dit and A for dah
+- for the connector, marked with T for tip, R for ring and G for ground of the 3 pin 3,5mm plug
+- power supply, marked with + and -
+
+All electrical parts together look like this:
+![Wiring](infos/pictures/wiring_all.jpg)
+
+You see the battery holder mounted on the bottom side of the board and the switch is inserted in the + cord.
 
 # Mechanics #
 
@@ -167,6 +185,7 @@ As the last step, mount the battery holder on the board.
 There are two options:
 - using some double-sided adhesive tape: Use strong adhesive tape, preferably one with a layer of silicone, which is often recommended for outdoor use.
 - use the hole in the center of the board to screw the battery holder to the board. Therefore, you need an _additional_ M2.5 screw with plate, washer plate and nut (not mentioned in the part list on top of the page)
+
 ![battery holder fixed](infos/pictures/prototype_3_housing-part-4.jpg)
 
 Now you can close the housing and your key is complete (or you want to add magnets as a mounting option, what ist explained in the next section).
@@ -186,6 +205,8 @@ For the 3D printed housing you need the following:
   - 2 lock washers for M3
   - 2 nut screws for M3
 
+The wiring is identical to that when using the metal housing.
+
 ### The press-fit sleeves ###
 
 First, the press-fit sleeves must be installed. It is recommend to use an installation aid to ensure that they are pressed in straight. If this is not available, please use a conical soldering iron tip and hold it absolutely straight.
@@ -198,9 +219,13 @@ The sensor pad is inserted in the rectangular hole in the same way as for the me
 
 ### The electronics ###
 
+This step is similar to that of the metal housing:
+- mount the battery holder on the circuit board
+- mount both inside the housing using 4 screws
 
+### Connector and switch ###
 
-WILL BE COMPLETED LATER
+The holes are prepared in the 3D printed housing. Just insert them and use their screws to fixate them. Some force is needed to make them hold. Be careful that it is tight enough but not to tight to damage them.
 
 
 ## Options for mounting ##
