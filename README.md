@@ -245,6 +245,10 @@ This is, how it can look:
 
 For use only in your shack, you can mount the bottom side of the key directly to a heavy item like a metal plate (e.g. steal with 8cm x 8cm x 2cm) or a stone plate, with probably looks great). For this mounting, you drill holes according to the holes for the screws in the housing through yor item and replace the screws of the housing with longer ones suitable for your item dimension. In this way you mount your item, the bottom of the housing and the top of the housing in once.
 
+# Hints #
+## Battery falling out of holder when mounting the key with strong magnets ##
+
+If you have very strong magnets, it can happen, that the batteries fall out of its holder if you attach the key to a surface. To avoid this, put some foam on top of the batteries to tighten their position together with the bottom of the housing.
 
 # History #
 
